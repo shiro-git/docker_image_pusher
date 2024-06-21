@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 k8s.gcr.io/kicbase:v0.0.44
+
